@@ -6,3 +6,4 @@ Git tracks changes of files.
 Good night.  
 ...
 Creating a new branch is quick and simple.
+This is bendi master.
