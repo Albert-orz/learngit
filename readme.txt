@@ -1,8 +1,9 @@
-Hello, this is line 1.
+Hello, this is line 1.1 .
 
-And nice to see you.
-I am glad to meet you.
+And nice to see ya.
 
-It's okay to do what you want.
+I'm glad to meet you.
+...
+It's okay to do what you want to do.
 
-lululu.
+lululua.
