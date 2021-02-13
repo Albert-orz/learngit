@@ -1,6 +1,2 @@
 ttt
-<<<<<<< HEAD
-changes made in master branch.
-=======
 123
->>>>>>> ttt
